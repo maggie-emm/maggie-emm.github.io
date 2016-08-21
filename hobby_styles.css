@@ -69,3 +69,10 @@ ul {
 	padding: 15px;
 	font-size: 20px;
 }
+
+}
+@media screen and (min-width: 500px) {
+  img {
+    width: 40%;
+    height: 40%;
+  }
