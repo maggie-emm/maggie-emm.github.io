@@ -1,3 +1,44 @@
 html {
+	background-color: #DA70D6;
 	font-family: helvetica;
+	margin-left: 30px;
+}
+
+h1 {
+	font-size: 70px;
+	color: #ffff00;
+	text-transform: uppercase;
+	text-decoration: blink;
+	font-style: oblique;
+	font-weight: bold;
+	letter-spacing: 10px;
+	text-shadow: 5px 6px 3px #cc3300;
+	display: block;
+	margin: 55px;
+}
+
+h2 {
+	display: block;
+	position: relative;
+	margin-left: 15%;
+	margin-top: -8%;
+	font-size: 50px;
+	line-height: 85px;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-style: italic;
+	color: white;
+}
+
+/*p {
+	border: 10px;
+	text-align: justify;
+}*/
+
+a:visited {
+	color: #00ff00
+}
+
+nav {
+	margin-left: 30px;
 }

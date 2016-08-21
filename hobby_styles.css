@@ -1,3 +1,66 @@
 html {
-	background-color: #DA70D6
+	background-color: #DA70D6;
+	font-family: helvetica;
+}
+
+h1 {
+	font-size: 70px;
+	color: #ffff00;
+	text-transform: uppercase;
+	text-decoration: blink;
+	font-style: oblique;
+	font-weight: bold;
+	letter-spacing: 10px;
+	text-shadow: 5px 6px 3px #cc3300;
+	display: block;
+	margin: 55px;
+}
+
+h5 {
+	text-align: center;
+}
+
+.welcome {
+	display: inline-block;
+	margin-left: 15%;
+	margin-top: -8%;
+}
+
+h2 {
+	display: block;
+	float: right;
+	position: relative;
+	margin-right: 15%;
+	margin-top: -10%;
+	font-size: 50px;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-style: italic;
+	color: white;
+}
+
+#preamble {
+	border: #660033 solid 5px;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+}
+
+#intro {
+	border: yellow double 3px;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: center;
+	list-style: inside;
+}
+
+a:visited {
+	color: #00ff00
+}
+
+ul {
+	list-style: none;
+}
+
+.bullets {
+	list-style: none;
 }
