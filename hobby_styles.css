@@ -64,3 +64,8 @@ ul {
 .bullets {
 	list-style: none;
 }
+
+#photos {
+	padding: 15px;
+	font-size: 20px;
+}
