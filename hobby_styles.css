@@ -56,3 +56,11 @@ h2 {
 a:visited {
 	color: #00ff00
 }
+
+ul {
+	list-style: none;
+}
+
+.bullets {
+	list-style: none;
+}
